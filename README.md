@@ -76,12 +76,6 @@ Top 10 Most Important Features:
 
 ---
 
-## 📊 Visualization
-
-![Feature Importance](https://your-screenshot-url-if-any.png)  
-> *Top 10 Most Important Features for Predicting Restaurant Ratings*
-
----
 
 ## 🤖 Future Improvements
 
